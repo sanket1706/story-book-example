@@ -1,5 +1,5 @@
 {
-  "name": "story-book-app",
+  "name": "@sanket-mane-pidilte/story-book-example",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -55,6 +55,7 @@
     "@storybook/react": "^7.2.1",
     "@storybook/react-webpack5": "^7.2.1",
     "@storybook/testing-library": "^0.2.0",
+    "auto": "^11.0.1",
     "babel-plugin-named-exports-order": "^0.0.2",
     "chromatic": "^6.22.0",
     "eslint-plugin-storybook": "^0.6.13",
@@ -63,5 +64,10 @@
     "webpack": "^5.88.2"
   },
   "readme": "ERROR: No README data found!",
-  "_id": "story-book-app@0.1.0"
+  "_id": "story-book-app@0.1.0",
+  "description": "Storybook design systems tutorial",
+  "main": "index.js",
+  "repository": "https://github.com/sanket1706/story-book-example.git",
+  "author": "Sanket Mane <sanket.mane@pidilite.vc>",
+  "license": "MIT"
 }
