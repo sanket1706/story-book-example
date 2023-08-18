@@ -64,7 +64,6 @@
     "webpack": "^5.88.2"
   },
   "readme": "ERROR: No README data found!",
-  "_id": "story-book-app@0.1.0",
   "description": "Storybook design systems tutorial",
   "main": "index.js",
   "repository": "https://github.com/sanket1706/story-book-example.git",
